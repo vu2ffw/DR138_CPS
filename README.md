@@ -4,3 +4,4 @@
 2.Alinco DR-138 is a Monoband VHF Only Rig.<br/>
 3.Zone feature is not available in DR-138 so channels are not grouped <br/></p>
 Please Check the List-RPT.txt file for the list of repeaters programmed the codeplug file.<br/>
+<b></b>DR138_CPS_41024.dat</b> is the codeplug file to be loaded into the radio.
